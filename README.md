@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Aliya 👋</h1>
-<p align="center">Software developer based in Jakarta Selatan, Indonesia</p>
+<p align="center">Software developer based in Jakarta Utara, Indonesia</p>
 
 <p align="center">
   <a href="https://github.com/aliyarohayasiregar?tab=followers">
