@@ -1,15 +1,19 @@
 <h1 align="center">Hi, I'm Aliya 👋</h1>
 
 <p align="center">
-  Software Developer based in Jakarta, Indonesia 🇮🇩
+Software Developer based in Jakarta, Indonesia 🇮🇩
+</p>
+
+<p align="center">
+Building web applications and backend services with Go & JavaScript
 </p>
 
 <p align="center">
   <a href="https://github.com/aliyarohayasiregar?tab=followers">
-    <img src="https://img.shields.io/badge/Followers-25-black?style=flat-square" />
+    <img src="https://img.shields.io/github/followers/aliyarohayasiregar?style=for-the-badge&label=Followers"/>
   </a>
   <a href="https://github.com/aliyarohayasiregar?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-32-black?style=flat-square" />
+    <img src="https://img.shields.io/badge/Public%20Repos-32-black?style=for-the-badge"/>
   </a>
 </p>
 
@@ -17,9 +21,9 @@
 
 ## 👩‍💻 About Me
 
-I'm a Software Developer with experience building web applications and backend services using **Go**, **JavaScript**, and modern web technologies.
+I'm a **Software Developer** with experience building backend services and modern web applications using **Go**, **JavaScript**, and **Vue.js**.
 
-I enjoy developing scalable backend systems, integrating third-party APIs, and creating responsive web applications. I'm continuously learning and improving my skills to build reliable and maintainable software.
+I enjoy solving real-world problems by developing scalable backend systems, integrating third-party APIs, and creating clean, maintainable applications. I'm always learning new technologies and improving my software engineering skills.
 
 ---
 
@@ -27,83 +31,113 @@ I enjoy developing scalable backend systems, integrating third-party APIs, and c
 
 ## 🏦 Koptek Mapan
 
-A cooperative management platform that helps manage members, savings, loans, approvals, and digital services.
+Cooperative management platform for member management, savings, loans, approvals, and digital payment services.
 
-**My Contributions**
-- Developed backend services using Go
-- Built RESTful APIs
-- Implemented authentication & authorization
-- Database design and maintenance
-- Deployment and production support
+### My Contributions
 
-🔗 **Website:** https://koptekmapan.com/
+- 🚀 Developed backend services using Go
+- 🔗 Built RESTful APIs
+- 🔐 Implemented JWT Authentication & Role-Based Access Control
+- 🗄️ Managed MySQL database
+- ⚙️ Deployment, maintenance, and bug fixing
+
+<p>
+<a href="https://koptekmapan.com/">
+<img src="https://img.shields.io/badge/Koptek_Mapan-Website-black?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<a href="https://play.google.com/store/apps/details?id=com.koptekmapan.ppob">
+<img src="https://img.shields.io/badge/PPOB-Google_Play-black?style=for-the-badge&logo=googleplay&logoColor=white"/>
+</a>
+</p>
 
 ---
 
-## 📱 PPOB Mobile App
+## 📱 PPOB Backend Service
 
-Backend service for a Payment Point Online Bank (PPOB) application that handles digital payment transactions such as:
+Backend service for a Payment Point Online Bank (PPOB) application that handles digital payment transactions.
 
-- Pulsa
-- PLN
-- E-Wallet
-- BPJS
-- and other bill payments
+### Highlights
 
-**Highlights**
 - 🚀 REST API development using Go
-- ⚙️ Third-party API & payment integration
-- 🔐 JWT Authentication & Role-based Access Control
-- 🛠️ Clean backend architecture
+- ⚙️ Third-party API integration
+- 🔐 JWT Authentication
+- 🧩 Clean backend architecture
 
 > Source code is private due to company policy.
 
-📲 **Google Play**
-https://play.google.com/store/apps/details?id=com.koptekmapan.ppob
-
 ---
 
-## 🌐 Company Profile Websites
+## 🌿 Company Profile Website
 
-Responsive company profile websites built with modern frontend technologies.
-
-### Rempah
-
-🔗 https://landing-page-9-rempah.vercel.app/gallery
-
-### CloudFlow SaaS
-
-🔗 https://cloudflow-saas-template-cfn5.vercel.app/
-
----
-
-## 🛠 Tech Stack
+Modern and responsive landing page built with Vue.js & Nuxt.
 
 <p>
-<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=nuxt&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST_API-000000?style=flat-square"/>
-<img src="https://img.shields.io/badge/JWT-000000?style=flat-square"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+
+<a href="https://landing-page-9-rempah.vercel.app/gallery">
+<img src="https://img.shields.io/badge/Rempah-Live_Demo-black?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://cloudflow-saas-template-cfn5.vercel.app/">
+<img src="https://img.shields.io/badge/CloudFlow-Live_Demo-black?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
 </p>
 
 ---
 
-## 📊 GitHub Stats
+# 🛠 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
+
+### Frameworks & Tools
+
+<p>
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxt&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_API-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=aliyarohayasiregar&show_icons=true&theme=default&hide_border=true&count_private=true" width="48%" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=aliyarohayasiregar&show_icons=true&hide_border=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliyarohayasiregar&layout=compact&theme=default&hide_border=true" width="42%" />
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliyarohayasiregar&layout=compact&hide_border=true"/>
+</p>
+
+---
+
+## 📫 Let's Connect
+
+<p>
+<a href="https://github.com/aliyarohayasiregar">
+<img src="https://img.shields.io/badge/GitHub-aliyarohayasiregar-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:your-email@example.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 </p>
 
 ---
 
 <p align="center">
-Always learning, always building 🚀
+<i>Always learning. Always building. 🚀</i>
 </p>
