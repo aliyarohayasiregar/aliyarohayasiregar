@@ -21,15 +21,16 @@ development and sharpening my skills through personal and academic projects.
 
 ### Featured Project
 
-**🔧 [Project Name] — Go**
+**🔧 PPOB App — Go (Backend)**
 
-> Ganti bagian ini dengan nama & deskripsi project Golang kamu.
-> Contoh: *A backend service built with Go that handles [fungsi utamanya],
-> using [tech stack: e.g. Gin, PostgreSQL, JWT auth]. Currently private,
-> demo below.*
+> Aplikasi PPOB (Pembayaran Produk & Online Biller) — backend service yang dibangun
+> dengan Go untuk menangani transaksi pembayaran digital (pulsa, listrik, dll).
+> Source code private, tapi aplikasinya sudah live di Play Store.
 
 <p align="center">
-  <img src="https://via.placeholder.com/700x400?text=Demo+Screenshot" alt="demo screenshot" width="700"/>
+  <a href="https://play.google.com/store/apps/details?id=com.koptekmapan.ppob">
+    <img src="https://img.shields.io/badge/Play%20Store-Lihat%20Aplikasi-black?style=for-the-badge&logo=googleplay&logoColor=white" />
+  </a>
 </p>
 
 **Highlights:**
